@@ -1,3 +1,4 @@
+%%%%%zjj
 clear
 clc
 lx=241;%x方向总长度
